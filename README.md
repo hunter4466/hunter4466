@@ -1,5 +1,7 @@
 ### Hi there 👋
-[!hunter4466's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunter4466&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunter4466&show_icons=true&theme=dark)](https://github.com/miguelesco/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunter4466&layout=compact&theme=dark)](https://github.com/miguelesco/github-readme-stats)
+
 
 <!--
 **hunter4466/hunter4466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
