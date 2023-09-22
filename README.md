@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunter4466&show_icons=true&theme=dark)](https://github.com/miguelesco/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunter4466&layout=compact&theme=dark)](https://github.com/miguelesco/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunter4466&show_icons=true&theme=dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunter4466&layout=compact&theme=dark)]
 
 
 <!--
